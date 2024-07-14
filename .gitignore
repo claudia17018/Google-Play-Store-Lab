@@ -1,0 +1,26 @@
+# Directorios generados por Jupyter Notebook
+.ipynb_checkpoints/
+
+# Directorios de Python
+__pycache__/
+*.pyc
+
+# Archivos de configuración de ambientes virtuales
+.env
+.venv
+env/
+venv/
+
+# Archivos de datos grandes
+data/
+
+# Archivos de log
+*.log
+
+# Configuración de entornos
+*.env
+*.DS_Store
+
+# Configuración de IDE
+.vscode/
+.idea/
